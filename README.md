@@ -1,8 +1,12 @@
-# Formas Research
+# Formas Research Group
 
-1. [Etiquetagem de Classes Gramaticais em Palavras Baseadas em Regras](#-etiquetagem-de-classes-gramaticais-em-palavras-baseadas-em-regras-)
+## Projetos
+- [✨ Etiquetagem de Classes Gramaticais em Palavras Baseadas em Regras ✨](#etiquetagem-de-classes-gramaticais-em-palavras-baseadas-em-regras)
+  - [Destaques do Projeto](#destaques-do-projeto)
+  - [Corpus Utilizado](#corpus-utilizado)
+  - [Referências](#referências)
 
-Gramaticais em Palavras Baseadas em Regras ✨
+## Etiquetagem de Classes Gramaticais em Palavras Baseadas em Regras
 
 Este projeto implementa um **etiquetador morfológico baseado em regras** para o idioma português, inspirado no trabalho clássico de **Brill (1992)**. Utilizando o renomado **corpus Bosque**, o objetivo é por em prática o conhecimento adquirído durante minha iniciação científica, como também testar hipótese de que, mesmo sendo o português uma língua mais verbosa que o inglês, podemos aplicar etiquetas gramaticais corretas utilizando os três últimos caracteres dos tokens etiquetados em um corpus padrão ouro **( Bosque )**.
 
@@ -16,7 +20,6 @@ Este projeto implementa um **etiquetador morfológico baseado em regras** para o
 
 ---
 
-#### 📚 Referências
+#### Referências
 
 BRILL, E. *A Simple Rule-Based Part of Speech Tagger*. Proceedings of the Third Conference on Applied Natural Language Processing. **ANLC ’92**. USA: Association for Computational Linguistics, 1992. Disponível em: [https://doi.org/10.3115/974499.974526](https://doi.org/10.3115/974499.974526)
-
