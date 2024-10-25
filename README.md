@@ -6,7 +6,9 @@
   - [Corpus Utilizado](#corpus-utilizado)
   - [Referências](#referências)
 
-## Etiquetagem de Classes Gramaticais em Palavras Baseadas em Regras
+## Etiquetagem de Classes Gramaticais em Palavras Baseadas em Reg
+
+<a href="https://colab.research.google.com/github/joaoBernardinoo/formas-research/blob/main/atividade_01_formas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Este projeto implementa um **etiquetador morfológico baseado em regras** para o idioma português, inspirado no trabalho clássico de **Brill (1992)**. Utilizando o renomado **corpus Bosque**, o objetivo é por em prática o conhecimento adquirído durante minha iniciação científica, como também testar hipótese de que, mesmo sendo o português uma língua mais verbosa que o inglês, podemos aplicar etiquetas gramaticais corretas utilizando os três últimos caracteres dos tokens etiquetados em um corpus padrão ouro **( Bosque )**.
 
